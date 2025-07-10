@@ -13,3 +13,5 @@ Open PS as admin within the same directory as the script by right-clicking and t
 *Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass*
 
 Then run the script afterwards. Execute any script by using the command with .\ before it. (Ex: .\examplescript.ps1)
+
+![](/Animation.gif)
