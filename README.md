@@ -1,8 +1,10 @@
-# geo-ip-blacklist-checker #
+# Geo-IP-Blacklist-Checker for Powershell and Bash #
 
-## Now with more Bash! Check Releases. :D
+#### *Update* :
 
-Simple Powershell script that queries various dbs and API endpoints and prints your IPv4 and IPv6 public IPs as well as checks them against a handful of known blacklist databases.
+23 Oct 2025 - Added geoip.sh Bash script to perform the same funtion on Linux. More details below the gif.
+
+This is a simple Powershell (or Bash!) script that queries various dbs and API endpoints and prints your IPv4 and IPv6 public IPs as well as checks them against a handful of known blacklist databases.
 
 ## To use:
 
@@ -17,3 +19,11 @@ Open PS as admin within the same directory as the script by right-clicking and t
 Then run the script afterwards. Execute any script by using the command with .\ before it. (Ex: .\examplescript.ps1)
 
 ![](/Animation.gif)
+
+# Running on Linux distros #
+
+1. Download ##geoip.sh## from Releases.
+2. Open Terminal
+3. Navigate to the file dirextory
+4. Run: sudo *chmod +x geoip.sh* to make the script execuatable.
+5. Run: *sudo bash geoip.sh*
