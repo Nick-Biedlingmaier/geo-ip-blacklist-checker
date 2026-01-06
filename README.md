@@ -1,6 +1,10 @@
 # Geo-IP-Blacklist-Checker for Powershell and Bash #
 
-#### *Update* :
+### *Update* : 
+
+06 Jan 2026 - Still working well both bash and ps1 scripts. Blacklist endpoints appear to still respond and this remains a more convenient way for me to check my IP for VPN tunnel or whatever other reason(s).
+
+### *Update* :
 
 23 Oct 2025 - Added geoip.sh Bash script to perform the same funtion on Linux. More details below the gif.
 
