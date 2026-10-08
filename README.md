@@ -26,7 +26,7 @@ Then run the script afterwards. Execute any script by using the command with .\ 
 
 # Running on Linux distros #
 
-1. Download ##geoip.sh## from Releases.
+1. Download geoip.sh from Releases.
 2. Open Terminal
 3. Navigate to the file dirextory
 4. Run: sudo *chmod +x geoip.sh* to make the script execuatable.
